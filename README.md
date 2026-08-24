@@ -57,13 +57,15 @@ Total delayed flight records (**1.27M**) were driven by:
 
 ## 📸 Dashboard Screenshots
 
-| Cover Page | Executive Overview |
-| :---: | :---: |
-| ![Cover](screenshots/cover.png) | ![Overview](screenshots/overview.png) |
+![Cover Page](screenshots/cover.png)
 
-| Carrier Analysis | Route Analysis | Delay Analysis |
-| :---: | :---: | :---: |
-| ![Carrier Analysis](screenshots/carrier_analysis.png) | ![Route Analysis](screenshots/route_analysis.png) | ![Delay Analysis](screenshots/delay_analysis.png) |
+![Overview Page](screenshots/overview.png)
+
+![Carrier Analysis](screenshots/carrier%20anlaysis.png)
+
+![Route Analysis](screenshots/route%20analysis.png)
+
+![Delay Analysis](screenshots/delay%20analysis.png)
 
 ---
 
