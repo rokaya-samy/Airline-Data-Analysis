@@ -70,10 +70,14 @@ Total delayed flight records (**1.27M**) were driven by:
 ---
 
 ## 📁 Repository Structure
-─ screenshots/             # High-resolution dashboard screenshots
-├── data/                    # Sample dataset & schema definitions
-├── notebooks/               # SQL queries, DAX formulas & data transformations
-└── README.md                # Main project documentation
+
+```text
+.
+├── screenshots/          # High-resolution dashboard screenshots
+├── data/                 # Sample dataset & schema definitions
+├── notebooks/            # SQL queries, DAX formulas & data transformations
+└── README.md             # Main project documentation
+```
 
 
 ---
